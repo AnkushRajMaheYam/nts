@@ -9,6 +9,8 @@ We are here to **help businesses go online** and thrive in the digital world by 
 
 This project showcases the official website of **Namaste Tech Solutions (NTS)**, a modern and responsive platform to represent our IT services.  
 
+![Preview of Website](preview-of-nts.png)
+
 ### Key Features:
 
 - **Elegant Design:** User-friendly interface with a clean and modern look.  
